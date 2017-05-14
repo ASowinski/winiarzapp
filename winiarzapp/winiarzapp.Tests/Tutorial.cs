@@ -5,7 +5,7 @@ using System;
 /*         
     Test > Run > All tests
 */
-
+//test
 namespace winiarzapp.Tests
 {
     //TODO: Usunąć w końcowej wersji kodu.
